@@ -6,7 +6,7 @@
     "cwd": "/workspaces/heavyhitter",
     "flag_name": "trigger_browserbackup.flag",
     "conditions": {
-      "total_runtime_hours": 20,
+      "total_runtime_hours": 200,
       "current_session_minutes": 170
     }
   },
@@ -27,7 +27,7 @@
     "cwd": "/workspaces/heavyhitter",
     "flag_name": "trigger_mega-uploader.flag",
     "conditions": {
-      "total_runtime_hours": 20,
+      "total_runtime_hours": 200,
       "current_session_minutes": 175
     }
   },
@@ -38,7 +38,7 @@
     "cwd": "/workspaces/heavyhitter",
     "flag_name": "25hr_trigger_mega-uploader.flag",
     "conditions": {
-      "total_runtime_hours": 25
+      "total_runtime_hours": 25.1
     }
   },
   {
