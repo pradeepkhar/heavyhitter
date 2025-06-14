@@ -28,7 +28,7 @@
     "flag_name": "trigger_mega-uploader.flag",
     "conditions": {
       "total_runtime_hours": 200,
-      "current_session_minutes": 175
+      "current_session_minutes": 1750
     }
   },
   {
