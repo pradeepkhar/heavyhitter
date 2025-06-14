@@ -132,6 +132,8 @@ echo "💥 All containers stopped. Shanti mil gayi!"
 
 # Start Codespace Tracker
 cd /workspaces/heavyhitter/codespace-tracker
+
+echo " Tracker is starting "
 ./tracker_setup.sh
 
 
