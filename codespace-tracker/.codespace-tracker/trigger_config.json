@@ -7,7 +7,7 @@
     "flag_name": "trigger_browserbackup.flag",
     "conditions": {
       "total_runtime_hours": 200,
-      "current_session_minutes": 170
+      "current_session_minutes": 1700
     }
   },
   {
