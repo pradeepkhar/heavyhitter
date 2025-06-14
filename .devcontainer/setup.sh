@@ -115,6 +115,9 @@ fi
 docker pull  rohan014233/thorium
 
 #run script for browser either restores it or makes new 
+
+echo "Browsser is starting"
+
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Browser-Backup-Restore/refs/heads/main/restore.sh && bash restore.sh
 
 
